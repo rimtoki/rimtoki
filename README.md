@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻🌱 Cybersecurity Projects:</h2>
 
 - [<b>Linux</b>](https://github.com/rimtoki/LinuxLab)
-- [<b>SQL</b>]
+- [<b>SQL</b>](https://github.com/rimtoki/SQLLab)
   
 
 <h2>📄✔️ Certifications:</h2>
