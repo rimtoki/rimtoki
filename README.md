@@ -2,17 +2,9 @@
 
 <h2>👩🏻‍💻🌱 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  -
-- <b>Linux</b>
-  -
-- <b>SQL</b>
-  -
-- <b>Suricata</b>
-  -
-- <b>Hash Values</b>
-  -
-- <b>Encrypting/Decrypting</b>
+- [<b>Linux</b>](https://github.com/rimtoki/LinuxLab)
+- [<b>SQL</b>]
+  
 
 <h2>📄✔️ Certifications:</h2>
 
